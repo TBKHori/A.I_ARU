@@ -1,2 +1,2 @@
 # A.I_ARU
-Artificial Intelligence Project from my course.
+Artificial Intelligence Projects from my course.
