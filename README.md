@@ -1,2 +1,2 @@
 # A.I_ARU
-Artificial Intelligence Projects from my course.
+Year 1 Python related Artificial Intelligence Projects from my course.
